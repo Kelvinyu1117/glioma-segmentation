@@ -4,6 +4,7 @@ EE4211 Computer Vision Project - Brain Tumor Segmentation with BraTS 2018
 ## Data loading
 1. Download the BraTSdata2018
 2. Extract the data and put it into the subdirectory ```data```
+3. Download and Extract the model weight into the subdirectory ```weights```
 
 ## Train and Prediction
 1. Run the notebook ``` BraTS2018```
