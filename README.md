@@ -1,8 +1,15 @@
 # Glioma Segmentation
 EE4211 Computer Vision Project - Brain Tumor Segmentation with BraTS 2018
 
+<<<<<<< HEAD
 ## Data preprocessing
 1. Download and extract the dataset under the subdirectory ```data```
+=======
+## Data loading
+1. Download the BraTSdata2018
+2. Extract the .zip file and put it into the subdirectory ```data```
+3. Download and extract the .zip file that are the pretrain model weights into the subdirectory ```weights``` from this  <a href="https://drive.google.com/file/d/1hE9It0ZOOeIuSFvt6GdiR_0cq9inWdTy/view?usp=sharing">link</a>. The pretrain model is trained and created by the <a href="https://github.com/polo8214/Brain-tumor-segmentation-using-deep-learning">Brain-tumor-segmentation-using-deep-learning</a> project, authored by <a href="https://github.com/polo8214">polo8214</a>.
+>>>>>>> 74a33fa5f99e766db0495fad4536fad8a736637b
 
 2. Run the pre-preprocessing.py
    
